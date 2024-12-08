@@ -58,12 +58,15 @@
   }
   .icon-game {
     border: 1px solid #78ff81;
+    box-shadow: 0 0 5px 0px #78ff81;
   }
   .icon-studio {
     border: 1px solid #fcee68;
+    box-shadow: 0 0 5px 0px #fcee68;
   }
   .icon-online {
     border: 1px solid #335fff;
+    box-shadow: 0 0 5px 0px #335fff;
   }
 
   .avatar-status.chat-friend-status.online {
@@ -87,12 +90,16 @@
     border-radius: 24px !important;
   }
 
-  .rbx-tabs-horizontal * {
+  .rbx-tab-heading {
     box-shadow: none !important;
   }
 
   .rbx-tab.active a {
     background-color: #25262b !important;
+  }
+
+  .friends-carousel-list-container {
+    padding: 6px;
   }
 
   #tab-about {
