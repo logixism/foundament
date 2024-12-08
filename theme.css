@@ -49,7 +49,8 @@
   }
   .icon-game,
   .icon-studio,
-  .icon-online {
+  .icon-online,
+  .chat-friend-list .chat-friend-container .avatar-headshot-sm .avatar-status {
     background: none !important;
     border-radius: 20%;
     width: 100%;
@@ -63,6 +64,23 @@
   }
   .icon-online {
     border: 1px solid #335fff;
+  }
+
+  .avatar-status.chat-friend-status.online {
+    border: 1px solid #335fff;
+  }
+  .avatar-status.chat-friend-status.offline {
+    border: 1px solid #a6a7a7;
+  }
+  .avatar-status.chat-friend-status.game {
+    border: 1px solid #78ff81;
+  }
+  .avatar-status.chat-friend-status.studio {
+    border: 1px solid #fcee68;
+  }
+
+  .avatar-status > span {
+    transition: all 1s ease-in-out;
   }
 
   .section-content {
