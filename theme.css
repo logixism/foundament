@@ -17,7 +17,6 @@
   }
 
   .friends-carousel-container,
-  .friends-carousel-tile,
   .options-dropdown {
     padding: 0 !important;
     margin: 0 !important;
@@ -298,6 +297,10 @@
   .friend-tile-dropdown {
     background-color: #212227 !important;
     border-radius: 12px !important;
+  }
+
+  .friend-tile-dropdown > ul {
+    display: none;
   }
 
   .dark-theme .btn-common-play-game-lg,
