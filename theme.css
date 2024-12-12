@@ -6,17 +6,35 @@
 @author       logixism
 @license      No License
 ==/UserStyle== */
-
 @-moz-document domain("www.roblox.com") {
-    .icon-viewdetails {
-        background: url('data:image/svg+xml,<svg width="100%" height="100%" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20 27.0001C20 25.1436 20.7376 23.363 22.0504 22.0503C23.3631 20.7376 25.1436 20 27 20C28.8565 20 30.637 20.7376 31.9497 22.0503C33.2624 23.363 34 25.1435 34 27V27.0001V49.0003C34 45.2872 32.5249 41.726 29.8993 39.1005C27.2739 36.4751 23.7129 35 20 35C16.2871 35 12.7261 36.4751 10.1007 39.1005C9.24583 39.9554 8.51293 40.9094 7.9132 41.9356L7.90698 41.9339L14.6723 30.8359C15.8595 28.8884 17.8061 27.5615 20.0015 27.142C20.0005 27.0948 20 27.0475 20 27.0001ZM33.9991 49.1622L34 49.1625V49.0003C34 49.0543 33.9997 49.1083 33.9991 49.1622Z" fill="%23BDBDBF" /><path d="M22.0504 22.0503L19.929 19.9289L19.929 19.9289L22.0504 22.0503ZM31.9497 22.0503L34.071 19.929L34.071 19.9289L31.9497 22.0503ZM34 27H37L37 26.9999L34 27ZM10.1007 39.1005L12.222 41.2219H12.222L10.1007 39.1005ZM7.9132 41.9356L7.11264 44.8268C8.42447 45.19 9.81645 44.6245 10.5033 43.4493L7.9132 41.9356ZM7.90698 41.9339L5.34542 40.3723C4.85569 41.1757 4.77121 42.1623 5.11723 43.0372C5.46325 43.9121 6.19968 44.574 7.10642 44.8251L7.90698 41.9339ZM14.6723 30.8359L17.2339 32.3975H17.2339L14.6723 30.8359ZM20.0015 27.142L20.5644 30.0887C22.0011 29.8143 23.0304 28.5437 23.0008 27.0813L20.0015 27.142ZM33.9991 49.1622L30.9993 49.1276C30.9835 50.4888 31.8863 51.69 33.1983 52.0534L33.9991 49.1622ZM34 49.1625L33.1992 52.0536C34.1023 52.3038 35.0704 52.1176 35.8163 51.5502C36.5621 50.9829 37 50.0996 37 49.1625H34ZM19.929 19.9289C18.0537 21.8043 17 24.3479 17 27.0001H23C23 25.9393 23.4215 24.9218 24.1717 24.1716L19.929 19.9289ZM27 17C24.3479 17 21.8043 18.0537 19.929 19.9289L24.1717 24.1716C24.9218 23.4214 25.9393 23 27 23V17ZM34.071 19.9289C32.1957 18.0537 29.6522 17 27 17V23C28.0608 23 29.0782 23.4215 29.8284 24.1716L34.071 19.9289ZM37 26.9999C37 24.3478 35.9463 21.8042 34.071 19.929L29.8283 24.1716C30.5785 24.9217 31 25.9393 31 27.0001L37 26.9999ZM37 27.0001V27H31V27.0001H37ZM37 49.0003V27.0001H31V49.0003H37ZM27.778 41.2219C29.841 43.2848 31 46.0829 31 49.0003H37C37 44.4915 35.2088 40.1673 32.0207 36.9792L27.778 41.2219ZM20 38C22.9172 38 25.7152 39.159 27.778 41.2219L32.0207 36.9792C28.8327 33.7912 24.5086 32 20 32V38ZM12.222 41.2219C14.2849 39.159 17.0828 38 20 38V32C15.4914 32 11.1674 33.7912 7.97936 36.9792L12.222 41.2219ZM10.5033 43.4493C10.9745 42.6431 11.5502 41.8936 12.222 41.2219L7.97936 36.9792C6.94144 38.0171 6.05141 39.1757 5.32311 40.4218L10.5033 43.4493ZM7.10642 44.8251L7.11264 44.8268L8.71376 39.0444L8.70754 39.0427L7.10642 44.8251ZM12.1107 29.2744L5.34542 40.3723L10.4685 43.4954L17.2339 32.3975L12.1107 29.2744ZM19.4385 24.1953C16.4201 24.772 13.7434 26.5961 12.1107 29.2744L17.2339 32.3975C17.9756 31.1806 19.1922 30.3509 20.5644 30.0887L19.4385 24.1953ZM17 27.0001C17 27.0678 17.0007 27.1353 17.0021 27.2028L23.0008 27.0813C23.0003 27.0543 23 27.0272 23 27.0001H17ZM33.1983 52.0534L33.1992 52.0536L34.8008 46.2714L34.7999 46.2711L33.1983 52.0534ZM37 49.1625V49.0003H31V49.1625H37ZM31 49.0003C31 49.0427 30.9998 49.0851 30.9993 49.1276L36.9989 49.1969C36.9996 49.1314 37 49.0659 37 49.0003H31Z" fill="%23BDBDBF" /><path fill-rule="evenodd" clip-rule="evenodd" d="M60.0002 27.0001C60.0002 25.1436 59.2626 23.363 57.9499 22.0503C56.6372 20.7376 54.8567 20 53.0002 20C51.1438 20 49.3633 20.7376 48.0506 22.0503C46.7379 23.363 46.0003 25.1435 46.0002 27V27.0001V49.0003C46.0002 45.2872 47.4754 41.726 50.1009 39.1005C52.7263 36.4751 56.2873 35 60.0002 35C63.7131 35 67.2741 36.4751 69.8996 39.1005C70.7544 39.9554 71.4873 40.9094 72.087 41.9356L72.0933 41.9339L65.328 30.8359C64.1407 28.8884 62.1941 27.5615 59.9988 27.142C59.9998 27.0948 60.0002 27.0475 60.0002 27.0001ZM46.0012 49.1622L46.0002 49.1625V49.0003C46.0002 49.0543 46.0005 49.1083 46.0012 49.1622Z" fill="%23BDBDBF" /><path d="M57.9499 22.0503L60.0712 19.9289L60.0712 19.9289L57.9499 22.0503ZM48.0506 22.0503L45.9293 19.929L45.9293 19.9289L48.0506 22.0503ZM46.0002 27H43.0002L43.0002 26.9999L46.0002 27ZM69.8996 39.1005L67.7782 41.2219H67.7782L69.8996 39.1005ZM72.087 41.9356L72.8876 44.8268C71.5758 45.19 70.1838 44.6245 69.497 43.4493L72.087 41.9356ZM72.0933 41.9339L74.6548 40.3723C75.1446 41.1757 75.229 42.1623 74.883 43.0372C74.537 43.9121 73.8006 44.574 72.8938 44.8251L72.0933 41.9339ZM65.328 30.8359L62.7664 32.3975H62.7664L65.328 30.8359ZM59.9988 27.142L59.4358 30.0887C57.9991 29.8143 56.9698 28.5437 56.9994 27.0813L59.9988 27.142ZM46.0012 49.1622L49.001 49.1276C49.0167 50.4888 48.1139 51.69 46.802 52.0534L46.0012 49.1622ZM46.0002 49.1625L46.801 52.0536C45.8979 52.3038 44.9298 52.1176 44.184 51.5502C43.4381 50.9829 43.0002 50.0996 43.0002 49.1625H46.0002ZM60.0712 19.9289C61.9465 21.8043 63.0002 24.3479 63.0002 27.0001H57.0002C57.0002 25.9393 56.5787 24.9218 55.8286 24.1716L60.0712 19.9289ZM53.0002 17C55.6524 17 58.1959 18.0537 60.0712 19.9289L55.8286 24.1716C55.0784 23.4214 54.061 23 53.0002 23V17ZM45.9293 19.9289C47.8045 18.0537 50.3481 17 53.0002 17V23C51.9395 23 50.922 23.4215 50.1719 24.1716L45.9293 19.9289ZM43.0002 26.9999C43.0003 24.3478 44.054 21.8042 45.9293 19.929L50.1719 24.1716C49.4217 24.9217 49.0003 25.9393 49.0002 27.0001L43.0002 26.9999ZM43.0002 27.0001V27H49.0002V27.0001H43.0002ZM43.0002 49.0003V27.0001H49.0002V49.0003H43.0002ZM52.2222 41.2219C50.1593 43.2848 49.0002 46.0829 49.0002 49.0003H43.0002C43.0002 44.4915 44.7915 40.1673 47.9796 36.9792L52.2222 41.2219ZM60.0002 38C57.083 38 54.2851 39.159 52.2222 41.2219L47.9796 36.9792C51.1676 33.7912 55.4916 32 60.0002 32V38ZM67.7782 41.2219C65.7154 39.159 62.9174 38 60.0002 38V32C64.5088 32 68.8329 33.7912 72.0209 36.9792L67.7782 41.2219ZM69.497 43.4493C69.0258 42.6431 68.45 41.8936 67.7782 41.2219L72.0209 36.9792C73.0588 38.0171 73.9488 39.1757 74.6771 40.4218L69.497 43.4493ZM72.8938 44.8251L72.8876 44.8268L71.2865 39.0444L71.2927 39.0427L72.8938 44.8251ZM67.8895 29.2744L74.6548 40.3723L69.5317 43.4954L62.7664 32.3975L67.8895 29.2744ZM60.5618 24.1953C63.5802 24.772 66.2568 26.5961 67.8895 29.2744L62.7664 32.3975C62.0246 31.1806 60.8081 30.3509 59.4358 30.0887L60.5618 24.1953ZM63.0002 27.0001C63.0002 27.0678 62.9995 27.1353 62.9982 27.2028L56.9994 27.0813C57 27.0543 57.0002 27.0272 57.0002 27.0001H63.0002ZM46.802 52.0534L46.801 52.0536L45.1994 46.2714L45.2004 46.2711L46.802 52.0534ZM43.0002 49.1625V49.0003H49.0002V49.1625H43.0002ZM49.0002 49.0003C49.0002 49.0427 49.0005 49.0851 49.001 49.1276L43.0014 49.1969C43.0006 49.1314 43.0002 49.0659 43.0002 49.0003H49.0002Z" fill="%23BDBDBF" /><path fill-rule="evenodd" clip-rule="evenodd" d="M44.2426 24.7574C45.3677 25.8826 46 27.4087 46 29H46V43H46C46 41.4087 45.3677 39.8826 44.2426 38.7574C43.1174 37.6322 41.5912 37 40 37C38.4088 37 36.8826 37.6322 35.7574 38.7574C34.6369 39.8779 34.0052 41.3962 34 42.9804V29.0199L34 29.0001C34 27.4088 34.6322 25.8826 35.7574 24.7574C36.8826 23.6322 38.4088 23 40 23C41.5912 23 43.1174 23.6322 44.2426 24.7574Z" fill="%23BDBDBF" /><path d="M46 29L43 29.0001L43.0001 32H46V29ZM44.2426 24.7574L46.3639 22.6361L46.3639 22.6361L44.2426 24.7574ZM46 29H49V26H46V29ZM46 43V46H49V43H46ZM46 43L43 43.0001L43.0001 46H46V43ZM44.2426 38.7574L46.3639 36.6361L46.3639 36.6361L44.2426 38.7574ZM35.7574 38.7574L37.8788 40.8787H37.8788L35.7574 38.7574ZM34 42.9804H31L37 42.9902L34 42.9804ZM34 29.0199H37L37 29.0149L34 29.0199ZM34 29.0001H31L31 29.0051L34 29.0001ZM35.7574 24.7574L37.8788 26.8787H37.8788L35.7574 24.7574ZM49 28.9999C48.9999 26.613 48.0516 24.3238 46.3639 22.6361L42.1212 26.8787C42.6839 27.4413 43 28.2045 43 29.0001L49 28.9999ZM46 26H46V32H46V26ZM49 43V29H43V43H49ZM46 46H46V40H46V46ZM49 42.9999C48.9999 40.613 48.0516 38.3238 46.3639 36.6361L42.1212 40.8787C42.6839 41.4413 43 42.2045 43 43.0001L49 42.9999ZM46.3639 36.6361C44.6761 34.9483 42.3869 34 40 34V40C40.7955 40 41.5586 40.3161 42.1212 40.8787L46.3639 36.6361ZM40 34C37.6131 34 35.3239 34.9483 33.6361 36.6361L37.8788 40.8787C38.4414 40.3161 39.2045 40 40 40V34ZM33.6361 36.6361C31.9553 38.3169 31.0079 40.5942 31 42.9705L37 42.9902C37.0026 42.1982 37.3184 41.439 37.8788 40.8787L33.6361 36.6361ZM31 29.0199V42.9804H37V29.0199H31ZM31 29.0051L31 29.0248L37 29.0149L37 28.9952L31 29.0051ZM33.6361 22.6361C31.9483 24.3238 31 26.6131 31 29.0001H37C37 28.2045 37.3161 27.4413 37.8788 26.8787L33.6361 22.6361ZM40 20C37.6131 20 35.3239 20.9483 33.6361 22.6361L37.8788 26.8787C38.4414 26.3161 39.2045 26 40 26V20ZM46.3639 22.6361C44.6761 20.9483 42.3869 20 40 20V26C40.7955 26 41.5586 26.3161 42.1212 26.8787L46.3639 22.6361Z" fill="%23BDBDBF" /><path d="M42.1214 45.1214C42.6839 44.5588 43 43.7958 43 43.0001H49C49 45.387 48.0518 47.6762 46.364 49.364L42.1214 45.1214ZM40 46C40.7957 46 41.5588 45.6839 42.1214 45.1214L46.364 49.364C44.6762 51.0519 42.3868 52 40 52V46ZM37.8786 45.1214C38.4412 45.6839 39.2043 46 40 46V52C37.6132 52 35.3238 51.0519 33.636 49.364L37.8786 45.1214ZM37 43.0001C37 43.7958 37.3161 44.5588 37.8786 45.1214L33.636 49.364C31.9482 47.6762 31 45.387 31 43.0001H37ZM37.8788 40.8787C37.3161 41.4413 37 42.2045 37 43.0001H31C31 40.6131 31.9483 38.3238 33.6361 36.6361L37.8788 40.8787ZM40 40C39.2045 40 38.4414 40.3161 37.8788 40.8787L33.6361 36.6361C35.3239 34.9483 37.6131 34 40 34V40ZM42.1212 40.8787C41.5586 40.3161 40.7955 40 40 40V34C42.3869 34 44.6761 34.9483 46.3639 36.6361L42.1212 40.8787ZM46.3639 36.6361C48.0517 38.3238 49 40.6131 49 43.0001H43C43 42.2045 42.6839 41.4413 42.1212 40.8787L46.3639 36.6361Z" fill="%23BDBDBF" /><path d="M12.2217 56.7783C10.1589 54.7154 9 51.9176 9 49.0003H3C3 53.5088 4.79102 57.8328 7.97909 61.0209L12.2217 56.7783ZM20 60C17.0826 60 14.2845 58.8411 12.2217 56.7783L7.97909 61.0209C11.1672 64.209 15.4915 66 20 66V60ZM27.7783 56.7783C25.7155 58.8411 22.9174 60 20 60V66C24.5085 66 28.8328 64.209 32.0209 61.0209L27.7783 56.7783ZM31 49.0003C31 51.9176 29.8411 54.7154 27.7783 56.7783L32.0209 61.0209C35.209 57.8328 37 53.5088 37 49.0003H31ZM27.778 41.2219C29.8409 43.2848 31 46.0829 31 49.0003H37C37 44.4915 35.2087 40.1673 32.0207 36.9792L27.778 41.2219ZM20 38C22.9172 38 25.7152 39.159 27.778 41.2219L32.0207 36.9792C28.8327 33.7912 24.5086 32 20 32V38ZM12.222 41.2219C14.2848 39.159 17.0828 38 20 38V32C15.4914 32 11.1673 33.7912 7.97935 36.9792L12.222 41.2219ZM7.97935 36.9792C4.79125 40.1673 3 44.4915 3 49.0003H9C9 46.0829 10.1591 43.2848 12.222 41.2219L7.97935 36.9792Z" fill="%23BDBDBF" /><path d="M67.7783 56.7783C69.8411 54.7154 71 51.9176 71 49.0003H77C77 53.5088 75.209 57.8328 72.0209 61.0209L67.7783 56.7783ZM60 60C62.9174 60 65.7155 58.8411 67.7783 56.7783L72.0209 61.0209C68.8328 64.209 64.5085 66 60 66V60ZM52.2217 56.7783C54.2845 58.8411 57.0826 60 60 60V66C55.4915 66 51.1672 64.209 47.9791 61.0209L52.2217 56.7783ZM49 49.0003C49 51.9176 50.1589 54.7154 52.2217 56.7783L47.9791 61.0209C44.791 57.8328 43 53.5088 43 49.0003H49ZM52.222 41.2219C50.1591 43.2848 49 46.0829 49 49.0003H43C43 44.4915 44.7913 40.1673 47.9793 36.9792L52.222 41.2219ZM60 38C57.0828 38 54.2848 39.159 52.222 41.2219L47.9793 36.9792C51.1673 33.7912 55.4914 32 60 32V38ZM67.778 41.2219C65.7152 39.159 62.9172 38 60 38V32C64.5086 32 68.8327 33.7912 72.0207 36.9792L67.778 41.2219ZM72.0207 36.9792C75.2087 40.1673 77 44.4915 77 49.0003H71C71 46.0829 69.8409 43.2848 67.778 41.2219L72.0207 36.9792Z" fill="%23BDBDBF" /></svg>') !important;
+    :root {
+        --base-darker: #111114;
+        --base: #121215;
+        --base-light: #1f2024;
+        --base-lighter: #25262b;
+
+        --yellow: #fcee68;
+        --green: #78ff81;
+        --blue: var(--blue);
+        --blue-light: #6380ff;
+        --grey: #a6a7a7;
+        --grey-dark: #333338;
     }
 
-    .icon-chat-gray {
-        background: url('data:image/svg+xml,<svg width="100%" height="100%" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M40 66C54.3594 66 66 54.3594 66 40C66 25.6406 54.3594 14 40 14C25.6406 14 14 25.6406 14 40C14 46.5596 16.4291 52.5518 20.4369 57.1261L16 66L40 66Z" fill="%23BDBDBF" /><path d="M40 66V68V66ZM20.4369 57.1261L22.2258 58.0206C22.5892 57.2938 22.4767 56.4193 21.9412 55.8082L20.4369 57.1261ZM16 66L14.2111 65.1056C13.9012 65.7255 13.9343 66.4618 14.2987 67.0515C14.6631 67.6411 15.3068 68 16 68L16 66ZM64 40C64 53.2548 53.2548 64 40 64V68C55.464 68 68 55.464 68 40H64ZM40 16C53.2548 16 64 26.7452 64 40H68C68 24.536 55.464 12 40 12V16ZM16 40C16 26.7452 26.7452 16 40 16V12C24.536 12 12 24.536 12 40H16ZM21.9412 55.8082C18.2407 51.5845 16 46.0564 16 40H12C12 47.0627 14.6176 53.519 18.9326 58.4441L21.9412 55.8082ZM17.7889 66.8944L22.2258 58.0206L18.6481 56.2317L14.2111 65.1056L17.7889 66.8944ZM40 64L16 64L16 68L40 68V64Z" fill="%23BDBDBF" /></svg>') !important;
+    .rbx-upgrade-now {
+        display: none !important;
     }
 
-    .system-feedback {
+    .system-feedback,
+    .theme-update-container,
+    .text-pastname,
+    .abuse-report-link,
+    ul.hlist
+        li.list-item.game-card
+        div.game-card-container
+        .game-card-link
+        .game-card-info,
+    .friend-tile-dropdown > ul {
         display: none !important;
     }
 
@@ -68,29 +86,29 @@
         height: 100%;
     }
     .icon-game {
-        border: 1px solid #78ff81;
-        box-shadow: 0 0 5px 0px #78ff81;
+        border: 1px solid var(--green);
+        box-shadow: 0 0 5px 0px var(--green);
     }
     .icon-studio {
-        border: 1px solid #fcee68;
-        box-shadow: 0 0 5px 0px #fcee68;
+        border: 1px solid var(--yellow);
+        box-shadow: 0 0 5px 0px var(--yellow);
     }
     .icon-online {
-        border: 1px solid #335fff;
-        box-shadow: 0 0 5px 0px #335fff;
+        border: 1px solid var(--blue);
+        box-shadow: 0 0 5px 0px var(--blue);
     }
 
     .avatar-status.chat-friend-status.online {
-        border: 1px solid #335fff;
+        border: 1px solid var(--blue);
     }
     .avatar-status.chat-friend-status.offline {
-        border: 1px solid #a6a7a7;
+        border: 1px solid var(--grey);
     }
     .avatar-status.chat-friend-status.game {
-        border: 1px solid #78ff81;
+        border: 1px solid var(--green);
     }
     .avatar-status.chat-friend-status.studio {
-        border: 1px solid #fcee68;
+        border: 1px solid var(--yellow);
     }
 
     .avatar-status > span {
@@ -106,7 +124,7 @@
     }
 
     .rbx-tab.active a {
-        background-color: #25262b !important;
+        background-color: var(--base-lighter) !important;
     }
 
     .friends-carousel-list-container {
@@ -123,12 +141,12 @@
     .profile-avatar-left {
         padding: 0 !important;
         border-radius: 24px 0px 0px 24px !important;
-        background-color: #25262b !important;
+        background-color: var(--base-lighter) !important;
     }
 
     .profile-avatar-right {
         border-radius: 0px 24px 24px 0px !important;
-        background-color: #1f2024 !important;
+        background-color: var(--base-light) !important;
     }
 
     .thumbnail-span,
@@ -142,7 +160,7 @@
     }
 
     .accoutrment-image {
-        background-color: #25262b !important;
+        background-color: var(--base-lighter) !important;
     }
 
     .accoutrement-item a span.thumbnail-2d-container {
@@ -150,10 +168,10 @@
     }
 
     .enable-three-dee {
-        color: #bcbdbe !important;
+        color: var(--grey) !important;
         border: 1px solid rgba(255, 255, 255, 0.2) !important;
         border-radius: 12px !important;
-        background-color: #1f2024 !important;
+        background-color: var(--base-light) !important;
     }
 
     .profile-name-history {
@@ -167,7 +185,7 @@
     .profile-name-history > .tooltip.fade * {
         width: 300px !important;
         border-radius: 16px;
-        background-color: #131417;
+        background-color: var(--base-darker);
     }
 
     .profile-name-history > .tooltip.fade * {
@@ -178,17 +196,9 @@
     .profile-name-history:after {
         content: "Aliases";
         font-size: 11pt;
-        color: #a6a7a7;
+        color: var(--grey);
         font-family: Builder Sans, Helvetica Neue, Helvetica, Arial,
             Lucida Grande, sans-serif;
-    }
-
-    .text-pastname {
-        display: none;
-    }
-
-    .abuse-report-link {
-        display: none;
     }
 
     #about > div:nth-child(1) > div:nth-child(3) * {
@@ -223,12 +233,12 @@
     .slide-item-container-left {
         padding: 0 !important;
         border-radius: 24px 0px 0px 24px !important;
-        background-color: #25262b !important;
+        background-color: var(--base-lighter) !important;
     }
 
     .slide-item-container-right {
         border-radius: 0px 24px 24px 0px !important;
-        background-color: #1f2024 !important;
+        background-color: var(--base-light) !important;
     }
 
     #groups-switcher {
@@ -243,19 +253,19 @@
     div.section:nth-child(5) > div:nth-child(2) {
         padding: 20px;
         border-radius: 24px 24px 24px 24px !important;
-        background-color: #1f2024 !important;
+        background-color: var(--base-light) !important;
     }
 
     #player-badges-container > div:nth-child(2) {
         padding: 20px;
         border-radius: 24px 24px 24px 24px !important;
-        background-color: #1f2024 !important;
+        background-color: var(--base-light) !important;
     }
 
     #roblox-badges-container > div:nth-child(2) {
         padding: 20px;
         border-radius: 24px 24px 24px 24px !important;
-        background-color: #1f2024 !important;
+        background-color: var(--base-light) !important;
     }
 
     #roblox-badges-container
@@ -271,7 +281,7 @@
     ul.hlist:nth-child(2) {
         padding: 20px;
         border-radius: 24px 24px 24px 24px !important;
-        background-color: #1f2024 !important;
+        background-color: var(--base-light) !important;
     }
 
     ul.hlist li.list-item.game-card {
@@ -280,14 +290,6 @@
         overflow: hidden;
         height: min-content;
         margin-bottom: 0px;
-    }
-
-    ul.hlist
-        li.list-item.game-card
-        div.game-card-container
-        .game-card-link
-        .game-card-info {
-        display: none;
     }
 
     .dark-theme .asset-thumb-container,
@@ -305,47 +307,42 @@
     }
 
     .dark-theme {
-        background-color: #121215;
+        background-color: var(--base);
     }
     .dark-theme .content {
-        background-color: #121215;
+        background-color: var(--base);
     }
 
     .friend-tile-dropdown {
-        background-color: #212227 !important;
+        background-color: var(--base-light) !important;
         border-radius: 12px !important;
-    }
-
-    .friend-tile-dropdown > ul {
-        display: none;
     }
 
     .dark-theme .btn-common-play-game-lg,
     .btn-growth-sm {
         border: 0;
-        background-color: #335fff !important;
+        background-color: var(--blue) !important;
     }
 
     .dark-theme .btn-common-play-game-lg:hover,
     .btn-growth-sm:hover {
-        background-color: #6b8bff !important;
+        background-color: var(--blue-light) !important;
     }
     .dark-theme .section-content {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
     }
 
     .dark-theme .rbx-tabs-horizontal .nav-tabs {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
     }
 
     .dark-theme .rbx-tab .rbx-tab-heading {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
         color: #fff;
     }
 
     .dark-theme .age-rating-details {
         background-color: rgba(0, 0, 0, 0.7);
-        /* for some reason gotta apply it again */
     }
 
     .dark-theme .stack .card-list .card-item {
@@ -353,14 +350,14 @@
     }
 
     .dark-theme .rbx-header {
-        background-color: #121215;
-        border-bottom: 1px solid rgb(49, 51, 57);
+        background-color: var(--base);
+        border-bottom: 1px solid var(--grey-dark);
     }
 
     .dark-theme .rbx-left-col {
         box-shadow: none;
-        border-right: 1px solid rgb(49, 51, 57);
-        background-color: #121215;
+        border-right: 1px solid var(--grey-dark);
+        background-color: var(--base);
     }
 
     .dark-theme .container-footer {
@@ -368,51 +365,47 @@
     }
 
     .dark-theme #catalog-react-page .search-bars {
-        background: #121215;
+        background: var(--base);
     }
 
     .dark-theme .catalog-container .sticky .topic-container {
-        background-color: #121215;
+        background-color: var(--base);
     }
 
     .dark-theme .item-card-container .item-card-thumb-container {
-        background-color: #282930;
+        background-color: var(--base-light);
     }
 
     .dark-theme
         .slide-switcher
         .slide-item-container
         .slide-item-container-right {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
     }
 
     .dark-theme .profile-avatar-right .profile-avatar-mask {
-        background-color: rgb(31, 32, 36);
-    }
-
-    .dark-theme .profile-avatar-left {
-        background-color: #191b1d;
+        background-color: var(--base-light);
     }
 
     .dark-theme .menu-vertical {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
     }
 
     .dark-theme .dropdown-menu {
-        background-color: rgb(31, 32, 36) !important;
+        background-color: var(--base-light) !important;
     }
 
     .dark-theme .btr-preview-container {
-        background: rgb(31, 32, 36) !important;
+        background: var(--base-light) !important;
     }
 
     .dark-theme .popover.bottom > .arrow,
     .dark-theme .popover.bottom > .arrow::after {
-        border-bottom-color: rgb(31, 32, 36);
+        border-bottom-color: var(--base-light);
     }
 
     .dark-theme .asset-thumb-container {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
     }
 
     .dark-theme .game-card-container .game-card-thumb-container {
@@ -428,16 +421,16 @@
     }
 
     .dark-theme .avatar .avatar-card-image {
-        border: 1px solid #393b3d;
+        border: 1px solid var(--grey-dark);
     }
 
     .dark-theme .hat-slot {
-        background-color: #262729;
-        border: 1px solid #393b3d;
+        background-color: var(--base-light);
+        border: 1px solid var(--grey-dark);
     }
 
     .dark-theme .dialogs .dialog-container .dialog-body {
-        background-color: #121215;
+        background-color: var(--base);
     }
 
     .dark-theme
@@ -445,39 +438,39 @@
         .dialog-container
         .dialog-message-container.message-inbound
         .dialog-message {
-        background-color: #212227;
+        background-color: var(--base);
         color: #fff;
-        border: 1px solid #212227;
+        border: 1px solid var(--base);
     }
 
     .dark-theme .dialogs .dialog-container .dialog-header {
-        background-color: #212227;
+        background-color: var(--base);
     }
 
     .dark-theme .dialog-container .dialog-input-container .dialog-input {
-        background-color: #121215;
+        background-color: var(--base);
         border-color: #a9b0cc;
         color: #a9b0cc;
         border-radius: 8px;
     }
     .dark-theme .chat-main {
-        background-color: #121215;
+        background-color: var(--base);
         color: #fff;
     }
 
     .dark-theme .chat-container .chat-main .chat-header {
-        background-color: #212227;
+        background-color: var(--base);
     }
 
     .dark-theme .stack .stack-list .stack-row {
-        background-color: #212227;
+        background-color: var(--base);
     }
 
     .dark-theme .modal-dialog .modal-content {
-        background-color: #212227;
+        background-color: var(--base);
     }
     .dark-theme .item-thumbnail-container .asset-thumb-container {
-        background-color: #212227;
+        background-color: var(--base);
     }
 
     .friend-tile-dropdown {
@@ -486,28 +479,28 @@
 
     .dark-theme .btn-growth-lg:focus,
     .dark-theme .btn-growth-lg {
-        background-color: #335fff;
-        border-color: #335fff;
+        background-color: var(--blue);
+        border-color: var(--blue);
         color: #fff;
     }
 
     .dark-theme .btn-growth-lg:focus,
     .dark-theme .btn-growth-lg:hover {
-        background-color: #6b8bff;
-        border-color: #6b8bff;
+        background-color: var(--blue-light);
+        border-color: var(--blue-light);
     }
 
     .dark-theme .btn-growth-md:focus,
     .dark-theme .btn-growth-md {
-        background-color: #335fff;
-        border-color: #335fff;
+        background-color: var(--blue);
+        border-color: var(--blue);
         color: #fff;
     }
 
     .dark-theme .btn-growth-md:focus,
     .dark-theme .btn-growth-md:hover {
-        background-color: #6b8bff;
-        border-color: #6b8bff;
+        background-color: var(--blue-light);
+        border-color: var(--blue-light);
         color: #fff;
     }
 
@@ -520,89 +513,89 @@
         .shopping-cart-btn
         .shopping-cart-icon-container
         .cart-number-container {
-        background-color: #335fff;
+        background-color: var(--blue);
     }
 
     .dark-theme.btr-profile .btr-games-list .btr-game-button {
-        background-color: #282930;
-        border-color: #282930;
+        background-color: var(--base);
+        border-color: var(--base-light);
     }
 
     .dark-theme .btn-generic-grid-xs:hover {
-        background-color: #282930;
-        border-color: #41424d;
+        background-color: var(--base);
+        border-color: var(--grey-dark);
     }
     .dark-theme .btn-generic-grid-xs {
-        background-color: #282930;
-        border-color: #41424d;
+        background-color: var(--base);
+        border-color: var(--grey-dark);
     }
 
     .dark-theme .btn-generic-slideshow-xs {
-        background-color: #282930;
-        border-color: #41424d;
+        background-color: var(--base);
+        border-color: var(--grey-dark);
     }
 
     .dark-theme .btn-generic-slideshow-xs:hover {
-        background-color: #282930;
-        border-color: #41424d;
+        background-color: var(--base);
+        border-color: var(--grey-dark);
     }
 
     .dark-theme .rbx-tabs-vertical .category-tabs .menu-vertical {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
     }
 
     .dark-theme .messages .messageDivider {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
         color: #fff;
     }
 
     .dark-theme .table {
-        background-color: #121215;
+        background-color: var(--base);
         color: #fff;
     }
 
     .dark-theme .message-banner {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
     }
 
     .dark-theme .rbx-header .navbar-search .input-field {
-        background-color: #212227 !important;
-        border-color: #212227 !important;
+        background-color: var(--base) !important;
+        border-color: var(--base) !important;
     }
 
     .dark-theme input[type="range"]::-webkit-slider-runnable-track {
-        background-color: #282930;
+        background-color: var(--base);
     }
     .dark-theme input[type="range"]::-moz-range-track {
-        background-color: #282930;
+        background-color: var(--base);
     }
     .dark-theme input[type="range"]::-ms-track {
-        background-color: #282930;
+        background-color: var(--base);
     }
 
     .dark-theme .hover-game-tile.focused.old-hover {
-        background-color: #272930;
+        background-color: var(--base);
     }
 
     .dark-theme .scroller-new {
-        background-color: #272930fc;
+        background-color: var(--base);
         box-shadow: none;
     }
 
     .dark-theme .hover-game-tile.focused.old-hover .featured-game-container {
-        background-color: #272930;
+        background-color: var(--base);
         color: #fff;
     }
 
     .dark-theme .passkey-upsell-banner {
-        background-color: rgb(31, 32, 36);
+        background-color: var(--base-light);
     }
 
     .dark-theme
         #robux-upsell-react-page-wrapper
         .robux-upsell-container-1
         .robux-upsell-item-and-packages-container {
-        background: #212227;
+        background: var(--base);
     }
 }
 
