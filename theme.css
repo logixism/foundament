@@ -20,6 +20,11 @@
     display: none !important;
 }
     
+    .navbar-search {
+        background: rgba(0, 0, 0, 0.3) !important;
+        backdrop-filter: blur(12px);
+    }
+    
   .friends-carousel-container,
   .options-dropdown {
     padding: 0 !important;
