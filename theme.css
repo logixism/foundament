@@ -8,6 +8,10 @@
 ==/UserStyle== */
 @-moz-document domain("www.roblox.com") {
     :root {
+        /* TODO: theme text colors */
+        --text-primary: #fff;
+        --text-secondary: #d7d8db;
+
         --base-darker: #111114;
         --base: #121215;
         --base-light: #1f2024;
@@ -19,6 +23,11 @@
         --blue-light: #6380ff;
         --grey: #a6a7a7;
         --grey-dark: #333338;
+    }
+
+    .age-bracket-label-age,
+    .age-bracket-label-username {
+        display: none !important;
     }
 
     .rbx-upgrade-now {
@@ -46,6 +55,10 @@
     .friends-carousel-container,
     .options-dropdown {
         padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .notification-margins {
         margin: 0 !important;
     }
 
