@@ -25,6 +25,11 @@
         --grey-dark: #333338;
     }
 
+    .modal-content {
+        border-color: var(--grey);
+        border-radius: 16px !important;
+    }
+
     .age-bracket-label-age,
     .age-bracket-label-username {
         display: none !important;
@@ -323,6 +328,7 @@
         background-color: var(--base);
     }
     .dark-theme .content {
+        color: #d7d8db;
         background-color: var(--base);
     }
 
